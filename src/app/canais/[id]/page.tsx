@@ -40,8 +40,6 @@ export const generateMetadata = async ({ params }: ChannelsPropsPage) => {
 async function page({ params }: ChannelsPropsPage) {
     const { id } = await params
 
-    console.log(id)
-
     const channel = Channels.find((channel) => {
         return channel.slug === id
     })
