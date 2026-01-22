@@ -67,15 +67,15 @@ async function page({ params }: PropsPageGames) {
                     <p>Campeonato: {game?.campeonato}</p>
 
                     <div className={styles.match__social}>
-                        <a href="https://api.whatsapp.com/send?text=Confira%20este%20link:%20https://futemax.org" target="_blank">
+                        <a href={`https://api.whatsapp.com/send?text=Confira%20este%20link:%20${baseUrl}`} target="_blank">
                             <i className="fa-brands fa-whatsapp"></i>
                         </a>
 
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://futemax.org" target="_blank">
+                        <a href={`https://www.facebook.com/sharer/sharer.php?u=${baseUrl}`} target="_blank">
                             <i className="fa-brands fa-facebook"></i>
                         </a>
 
-                        <a href="https://t.me/share/url?url=https://futemax.org&text=Confira%20este%20conteúdo" target="_blank">
+                        <a href={`https://t.me/share/url?url=${baseUrl}&text=Confira%20este%20conteúdo`} target="_blank">
                             <i className="fa-brands fa-telegram"></i>
                         </a>
                     </div>
