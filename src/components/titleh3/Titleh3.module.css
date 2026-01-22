@@ -1,0 +1,7 @@
+.titleh3 {
+    font-size: clamp(1rem, 0.9vw, 2.8rem);
+    text-align: center;
+    color: var(--text-color-2);
+    font-style: italic;
+    font-weight: 500;
+}

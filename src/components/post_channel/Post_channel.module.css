@@ -1,0 +1,45 @@
+.post__channel{
+    aspect-ratio: 16/10;
+    width: 100%;
+    background-color: var(--bg-color-2);
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+
+}
+
+.post__channelThumb{
+    width: 100%;
+    height: 100%;
+}
+
+
+.post__channelLink{
+    position: absolute;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    top: 0;
+    left: 0;
+
+    &:hover{
+        opacity: 0.8;
+    }
+    &:hover>i{
+        opacity: 1;
+    }
+
+    i{
+        font-size: 1.5rem;
+        transform: translate(-5px,-5px);
+        opacity: 0;
+        color: var(--primary-color);
+    }
+}

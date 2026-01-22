@@ -1,0 +1,7 @@
+.ended{
+	color: var(--text-color-3);
+	opacity: 0.9;
+}
+
+/* A classe 'live' é global (definida em globals.css) e fornece cor/ animação */
+
