@@ -3,6 +3,7 @@ import "./globals.css";
 import '@fortawesome/fontawesome-free/css/all.min.css'
 import Header from "@/components/header/Header";
 import Footer from "@/components/footer/Footer";
+import Script from "next/script";
 
 const baseUrl = process.env.NEXT_PUBLIC_SITE_URL!
 
@@ -69,10 +70,26 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pt-br">
+      <head>
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-D0F0THC36B"
+          strategy="afterInteractive"
+        />
+
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-D0F0THC36B');
+          `}
+        </Script>
+      </head>
       <body>
-        <Header/>
+        <Header />
         {children}
-        <Footer/>
+        <Footer />
       </body>
     </html>
   );
