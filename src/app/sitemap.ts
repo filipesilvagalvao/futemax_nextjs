@@ -5,7 +5,7 @@ import { filter_games } from "@/functions/FilterGames";
 const baseUrl = process.env.NEXT_PUBLIC_SITE_URL!
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-    const now = new Date()
+    const now = new Date().toISOString()
 
     const allChannels: any = Channels.map((channel) => {
         return {
