@@ -19,7 +19,6 @@ export const metadata: Metadata = {
     "canais de tv",
     "esportes",
   ],
-  metadataBase: new URL(baseUrl),
   openGraph: {
     title: "FuteMax — Acompanhe jogos e canais esportivos ao vivo",
     description:
