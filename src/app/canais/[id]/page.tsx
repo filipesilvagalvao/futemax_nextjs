@@ -8,11 +8,7 @@ type ChannelsPropsPage = {
     }
 }
 
-const baseUrl =
-    process.env.NEXT_PUBLIC_SITE_URL ??
-    (process.env.VERCEL_URL
-        ? `https://${process.env.VERCEL_URL}`
-        : "http://localhost:3000");
+const baseUrl = process.env.NEXT_PUBLIC_SITE_URL!
 
 export const generateMetadata = async ({ params }: ChannelsPropsPage) => {
     const { id } = await params
@@ -63,13 +59,13 @@ async function page({ params }: ChannelsPropsPage) {
                     <h1>Assistir {channel?.name} ao vivo</h1>
                     <p>Categoria: {channel?.category}</p>
                     <div className={styles.channels__social}>
-                        <a href="https://api.whatsapp.com/send?text=Confira%20este%20link:%20https://futemax.org" target="_blank">
+                        <a href={`https://api.whatsapp.com/send?text=Confira%20este%20link:%20${baseUrl}`} target="_blank">
                             <i className="fa-brands fa-whatsapp"></i>
                         </a>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://futemax.org" target="_blank">
+                        <a href={`https://www.facebook.com/sharer/sharer.php?u=${baseUrl}`} target="_blank">
                             <i className="fa-brands fa-facebook"></i>
                         </a>
-                        <a href="https://t.me/share/url?url=https://futemax.org&text=Confira%20este%20conteúdo" target="_blank">
+                        <a href={`https://t.me/share/url?url=${baseUrl}&text=Confira%20este%20conteúdo`} target="_blank">
                             <i className="fa-brands fa-telegram"></i>
                         </a>
                     </div>
