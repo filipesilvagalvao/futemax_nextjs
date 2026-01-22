@@ -5,7 +5,11 @@ import Header from "@/components/header/Header";
 import Footer from "@/components/footer/Footer";
 import Script from "next/script";
 
-const baseUrl = process.env.NEXT_PUBLIC_SITE_URL!
+const baseUrl =
+  process.env.NEXT_PUBLIC_SITE_URL ??
+  (process.env.VERCEL_URL
+    ? `https://${process.env.VERCEL_URL}`
+    : "http://localhost:3000");
 
 export const metadata: Metadata = {
   title: "FuteMax site OFICIAL ✔️",

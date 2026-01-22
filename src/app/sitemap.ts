@@ -2,7 +2,11 @@ import { MetadataRoute } from "next";
 import Channels from "@/functions/Channels";
 import { filter_games } from "@/functions/FilterGames";
 
-const baseUrl = process.env.NEXT_PUBLIC_SITE_URL!
+const baseUrl =
+  process.env.NEXT_PUBLIC_SITE_URL ??
+  (process.env.VERCEL_URL
+    ? `https://${process.env.VERCEL_URL}`
+    : "http://localhost:3000");
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     const now = new Date()
