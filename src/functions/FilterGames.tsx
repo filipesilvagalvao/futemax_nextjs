@@ -19,7 +19,7 @@ const apiUrl = process.env.API_URL!
 export const filter_games = async () => {
 
     const response = await fetch(apiUrl, {
-        next: { revalidate: 86400 }
+        next: { revalidate: 18000 } //5 horas
     })
 
     const data: GameApiProps[] = await response.json()
