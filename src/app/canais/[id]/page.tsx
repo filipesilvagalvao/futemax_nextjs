@@ -2,6 +2,7 @@ import Channels from "@/functions/Channels"
 import styles from "./Canais.module.css"
 import { Players } from "@/functions/Players"
 import Option_player from "@/components/option_player/Option_player"
+import Script from "next/script"
 type ChannelsPropsPage = {
     params: {
         id: string
@@ -76,6 +77,17 @@ async function page({ params }: ChannelsPropsPage) {
                     <p>{channel.description}</p>
                 </div>
             </div>
+            <Script
+                src="/meu-anuncio.js"
+                strategy="afterInteractive"
+                data-cfasync="false"
+            />
+            <Script
+                src="//jnbhi.com/tag.min.js"
+                data-zone="10517656"
+                data-cfasync="false"
+                strategy="afterInteractive"
+            />
         </section>
     )
 }

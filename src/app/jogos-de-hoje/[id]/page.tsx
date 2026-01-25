@@ -2,6 +2,7 @@ import Option_player from "@/components/option_player/Option_player"
 import styles from "./Jogos_de_hoje.module.css"
 import { filter_games } from "@/functions/FilterGames"
 import { Players } from "@/functions/Players"
+import Script from "next/script"
 
 type PropsPageGames = {
     params: {
@@ -10,7 +11,7 @@ type PropsPageGames = {
 }
 
 const baseUrl = process.env.NEXT_PUBLIC_SITE_URL!
-    
+
 export const generateMetadata = async ({ params }: PropsPageGames) => {
     const { id } = await params
     const dataGame = (await filter_games()).find((game) => {
@@ -89,6 +90,17 @@ async function page({ params }: PropsPageGames) {
                     </ul>
                 </div>
             </div>
+            <Script
+                src="/meu-anuncio.js"
+                strategy="afterInteractive"
+                data-cfasync="false"
+            />
+            <Script
+                src="//jnbhi.com/tag.min.js"
+                data-zone="10517656"
+                data-cfasync="false"
+                strategy="afterInteractive"
+            />
         </section>
     )
 }
