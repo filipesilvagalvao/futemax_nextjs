@@ -3,6 +3,7 @@ import styles from "./Jogos_de_hoje.module.css"
 import { filter_games } from "@/functions/FilterGames"
 import { Players } from "@/functions/Players"
 import Script from "next/script"
+import Warp from "@/components/warp/Warp"
 
 type PropsPageGames = {
     params: {
@@ -76,8 +77,9 @@ async function page({ params }: PropsPageGames) {
                             <i className="fa-brands fa-telegram"></i>
                         </a>
                     </div>
-                </header>
 
+                </header>
+                <Warp />
                 <Option_player channels={channels} />
                 <div className={styles.match__info}>
                     <h2>Informarções da partida</h2>
@@ -90,7 +92,7 @@ async function page({ params }: PropsPageGames) {
                     </ul>
                 </div>
             </div>
-            <Script
+            {/* <Script
                 src="/meu-anuncio.js"
                 strategy="afterInteractive"
                 data-cfasync="false"
@@ -100,7 +102,7 @@ async function page({ params }: PropsPageGames) {
                 data-zone="10517656"
                 data-cfasync="false"
                 strategy="afterInteractive"
-            />
+            /> */}
         </section>
     )
 }

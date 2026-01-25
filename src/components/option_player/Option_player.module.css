@@ -14,7 +14,7 @@
 }
 
 .optionPlayer__iframe{
-    aspect-ratio: 16/9;
+    aspect-ratio: 16/12;
     object-fit: cover;
     width: 100%;
     height: calc(100% - 90px);

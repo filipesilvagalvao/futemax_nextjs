@@ -3,6 +3,7 @@ import styles from "./Canais.module.css"
 import { Players } from "@/functions/Players"
 import Option_player from "@/components/option_player/Option_player"
 import Script from "next/script"
+import Warp from "@/components/warp/Warp"
 type ChannelsPropsPage = {
     params: {
         id: string
@@ -71,13 +72,14 @@ async function page({ params }: ChannelsPropsPage) {
                         </a>
                     </div>
                 </header>
+                <Warp />
                 <Option_player channels={players} />
                 <div className={styles.channels__info}>
                     <h2>Um pouco sobre {channel.name}</h2>
                     <p>{channel.description}</p>
                 </div>
             </div>
-            <Script
+            {/* <Script
                 src="/meu-anuncio.js"
                 strategy="afterInteractive"
                 data-cfasync="false"
@@ -87,7 +89,7 @@ async function page({ params }: ChannelsPropsPage) {
                 data-zone="10517656"
                 data-cfasync="false"
                 strategy="afterInteractive"
-            />
+            /> */}
         </section>
     )
 }
