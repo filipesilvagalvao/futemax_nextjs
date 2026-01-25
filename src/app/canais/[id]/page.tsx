@@ -79,7 +79,7 @@ async function page({ params }: ChannelsPropsPage) {
                     <p>{channel.description}</p>
                 </div>
             </div>
-            {/* <Script
+            <Script
                 src="/meu-anuncio.js"
                 strategy="afterInteractive"
                 data-cfasync="false"
@@ -89,7 +89,7 @@ async function page({ params }: ChannelsPropsPage) {
                 data-zone="10517656"
                 data-cfasync="false"
                 strategy="afterInteractive"
-            /> */}
+            />
         </section>
     )
 }

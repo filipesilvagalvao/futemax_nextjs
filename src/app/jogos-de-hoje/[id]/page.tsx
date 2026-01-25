@@ -92,7 +92,7 @@ async function page({ params }: PropsPageGames) {
                     </ul>
                 </div>
             </div>
-            {/* <Script
+            <Script
                 src="/meu-anuncio.js"
                 strategy="afterInteractive"
                 data-cfasync="false"
@@ -102,7 +102,7 @@ async function page({ params }: PropsPageGames) {
                 data-zone="10517656"
                 data-cfasync="false"
                 strategy="afterInteractive"
-            /> */}
+            />
         </section>
     )
 }
