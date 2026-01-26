@@ -3,6 +3,7 @@ import styles from "./Jogos_de_hoje.module.css"
 import { filter_games } from "@/functions/FilterGames"
 import { Players } from "@/functions/Players"
 import Script from "next/script"
+import { redirect } from "next/navigation"
 import Warp from "@/components/warp/Warp"
 import GetGames from "@/functions/GetGames"
 
@@ -53,6 +54,10 @@ async function page({ params }: PropsPageGames) {
     const game = games?.find((match) => {
         return match.id === slug
     })
+
+    if (!game) {
+        redirect('/')
+    }
 
     const channels: string[] = []
 
