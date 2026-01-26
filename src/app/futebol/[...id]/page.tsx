@@ -4,22 +4,26 @@ import { filter_games } from "@/functions/FilterGames"
 import { Players } from "@/functions/Players"
 import Script from "next/script"
 import Warp from "@/components/warp/Warp"
+import GetGames from "@/functions/GetGames"
+
 
 type PropsPageGames = {
     params: {
-        id: string
+        id: string[]
     }
 }
 
 const baseUrl = process.env.NEXT_PUBLIC_SITE_URL!
 
-export const generateMetadata = async ({ params }: PropsPageGames) => {
+export const generateMetadata = async ({ params }:PropsPageGames) => {
     const { id } = await params
-    const dataGame = (await filter_games()).find((game) => {
-        return game.id === id
+    const [slug, date] = id
+
+    const dataGame = (await GetGames(date))?.find((game) => {
+        return game.id === slug
     })
 
-    const canonicalUrl = `${baseUrl}/jogos-de-hoje/${id}`
+    const canonicalUrl = `${baseUrl}/futebol/${slug}/${date}`
 
     return {
         title: `${dataGame?.time_casa.nome} vs ${dataGame?.time_visitante.nome}`,
@@ -41,11 +45,13 @@ export const generateMetadata = async ({ params }: PropsPageGames) => {
 }
 
 async function page({ params }: PropsPageGames) {
-    const slug = await params
-    const games = await filter_games()
+    const {id} = await params
+    const [slug, date] = id
 
-    const game = games.find((match) => {
-        return match.id === slug.id
+    const games = await GetGames(date)
+
+    const game = games?.find((match) => {
+        return match.id === slug
     })
 
     const channels: string[] = []

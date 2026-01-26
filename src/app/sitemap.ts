@@ -1,6 +1,7 @@
 import { MetadataRoute } from "next";
 import Channels from "@/functions/Channels";
 import { filter_games } from "@/functions/FilterGames";
+import DateToday from "@/functions/DateToday";
 
 const baseUrl = process.env.NEXT_PUBLIC_SITE_URL!
 
@@ -9,7 +10,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
     const allGames: any = (await filter_games()).map((game) => (
         {
-            url: `${baseUrl}/jogos-de-hoje/${game.id}`,
+            url: `${baseUrl}/futebol/${game.id}/${DateToday()}`,
             lastModified: now,
             changeFrequency: "daily",
             priority: 1

@@ -1,6 +1,7 @@
 import Link from "next/link"
 import styles from "./Game.module.css"
 import HourLive from "../hourLive/HourLive"
+import DateToday from "@/functions/DateToday"
 type TeamProps = {
     nome: string,
     img: string
@@ -41,7 +42,7 @@ function Game({ campeonato, hora, time_casa, time_visitante, slug }: GameProps) 
             </div>
 
             <p className={styles.game__champeonship}>{campeonato}</p>
-            <Link href={`/jogos-de-hoje/${slug}`} className={styles.game__link}>
+            <Link href={`/futebol/${slug}/${DateToday()}`} className={styles.game__link}>
                 <i className="fa-solid fa-circle-play"></i>
             </Link>
         </article>
