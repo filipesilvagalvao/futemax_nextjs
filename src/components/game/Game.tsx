@@ -1,6 +1,5 @@
 import Link from "next/link"
 import styles from "./Game.module.css"
-import { slugify } from "@/functions/Slugify"
 import HourLive from "../hourLive/HourLive"
 type TeamProps = {
     nome: string,
