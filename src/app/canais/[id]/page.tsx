@@ -85,10 +85,16 @@ async function page({ params }: ChannelsPropsPage) {
                 data-cfasync="false"
             />
             <Script
-                src="//jnbhi.com/tag.min.js"
-                data-zone="10517656"
-                data-cfasync="false"
+                src="https://bvtpk.com/tag.min.js"
+                data-zone="10517655"
                 strategy="afterInteractive"
+                data-cfasync="false"
+            />
+            <Script
+                src="https://bvtpk.com/tag.min.js"
+                data-zone="10517656"
+                strategy="afterInteractive"
+                data-cfasync="false"
             />
         </section>
     )

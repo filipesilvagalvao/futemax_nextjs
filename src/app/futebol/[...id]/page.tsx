@@ -16,7 +16,7 @@ type PropsPageGames = {
 
 const baseUrl = process.env.NEXT_PUBLIC_SITE_URL!
 
-export const generateMetadata = async ({ params }:PropsPageGames) => {
+export const generateMetadata = async ({ params }: PropsPageGames) => {
     const { id } = await params
     const [slug, date] = id
 
@@ -46,7 +46,7 @@ export const generateMetadata = async ({ params }:PropsPageGames) => {
 }
 
 async function page({ params }: PropsPageGames) {
-    const {id} = await params
+    const { id } = await params
     const [slug, date] = id
 
     const games = await GetGames(date)
@@ -109,10 +109,16 @@ async function page({ params }: PropsPageGames) {
                 data-cfasync="false"
             />
             <Script
-                src="//jnbhi.com/tag.min.js"
-                data-zone="10517656"
-                data-cfasync="false"
+                src="https://bvtpk.com/tag.min.js"
+                data-zone="10517655"
                 strategy="afterInteractive"
+                data-cfasync="false"
+            />
+            <Script
+                src="https://bvtpk.com/tag.min.js"
+                data-zone="10517656"
+                strategy="afterInteractive"
+                data-cfasync="false"
             />
         </section>
     )
