@@ -1,0 +1,213 @@
+[
+  {
+    "id": "espanyol-vs-alaves",
+    "campeonato": "Campeonato Espanhol",
+    "hora": "17:00",
+    "time_casa": {
+      "nome": "Espanyol",
+      "img": "https://static.futbolenlatv.com/img/32/20121218093321_espanol.webp"
+    },
+    "time_visitante": {
+      "nome": "Alaves",
+      "img": "https://static.futbolenlatv.com/img/32/20210127191233-alaves-esports.webp"
+    },
+    "canais": [
+      "Disney+ Premium",
+      "ESPN 4"
+    ]
+  },
+  {
+    "id": "sampaio_correa-vs-boavista_sc",
+    "campeonato": "Campeonato Carioca",
+    "hora": "19:00",
+    "time_casa": {
+      "nome": "Sampaio Correa",
+      "img": "https://static.futbolenlatv.com/img/32/20150424124026-sampaio-correa.webp"
+    },
+    "time_visitante": {
+      "nome": "Boavista SC",
+      "img": "https://static.futbolenlatv.com/img/32/20180122110804-boavista-sc.webp"
+    },
+    "canais": [
+      "Premiere"
+    ]
+  },
+  {
+    "id": "nova_iguacu-vs-bangu",
+    "campeonato": "Campeonato Carioca",
+    "hora": "20:30",
+    "time_casa": {
+      "nome": "Nova Iguaçu",
+      "img": "https://static.futbolenlatv.com/img/32/20180117113635-nova-iguacu.webp"
+    },
+    "time_visitante": {
+      "nome": "Bangu",
+      "img": "https://static.futbolenlatv.com/img/32/20180117121354-bangu.webp"
+    },
+    "canais": [
+      "Premiere"
+    ]
+  },
+  {
+    "id": "lazio-vs-genoa",
+    "campeonato": "Campeonato italiano",
+    "hora": "16:45",
+    "time_casa": {
+      "nome": "Lazio",
+      "img": "https://static.futbolenlatv.com/img/32/20121219035121_lazio.webp"
+    },
+    "time_visitante": {
+      "nome": "Genoa",
+      "img": "https://static.futbolenlatv.com/img/32/20121219034524_génova.webp"
+    },
+    "canais": [
+      "Disney+ Premium",
+      "ESPN"
+    ]
+  },
+  {
+    "id": "antalyaspor-vs-trabzonspor",
+    "campeonato": "Campeonato Turco",
+    "hora": "14:00",
+    "time_casa": {
+      "nome": "Antalyaspor",
+      "img": "https://static.futbolenlatv.com/img/32/20140114055256-antalyaspor.webp"
+    },
+    "time_visitante": {
+      "nome": "Trabzonspor",
+      "img": "https://static.futbolenlatv.com/img/32/20130410022225_trabzonspor.webp"
+    },
+    "canais": [
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "bristol_city-vs-derby",
+    "campeonato": "Championship",
+    "hora": "17:00",
+    "time_casa": {
+      "nome": "Bristol City",
+      "img": "https://static.futbolenlatv.com/img/32/20200131114355-bristol-city.webp"
+    },
+    "time_visitante": {
+      "nome": "Derby",
+      "img": "https://static.futbolenlatv.com/img/32/20200211093754-derby-county.webp"
+    },
+    "canais": [
+      "Disney+ Premium",
+      "Xsports"
+    ]
+  },
+  {
+    "id": "barbados-vs-guadeloupe",
+    "campeonato": "CONCACAF Women's U17",
+    "hora": "17:00",
+    "time_casa": {
+      "nome": "Barbados",
+      "img": "https://static.futbolenlatv.com/img/32/20200228203037-barbados.webp"
+    },
+    "time_visitante": {
+      "nome": "Guadeloupe",
+      "img": "https://static.futbolenlatv.com/img/32/20200608215827-ultimate-tennis-showdown.webp"
+    },
+    "canais": [
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "sao_cristovao_e_nevis-vs-panama",
+    "campeonato": "CONCACAF Women's U17",
+    "hora": "18:00",
+    "time_casa": {
+      "nome": "São Cristóvão e Nevis",
+      "img": "https://static.futbolenlatv.com/img/32/20170219022627-san-cristobal.webp"
+    },
+    "time_visitante": {
+      "nome": "Panama",
+      "img": "https://static.futbolenlatv.com/img/32/20190512093725-panama2.webp"
+    },
+    "canais": [
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "us_virgin_islands-vs-dominica",
+    "campeonato": "CONCACAF Women's U17",
+    "hora": "19:00",
+    "time_casa": {
+      "nome": "US Virgin Islands",
+      "img": "https://static.futbolenlatv.com/img/32/20210525162841-united-states-virgin-islands.webp"
+    },
+    "time_visitante": {
+      "nome": "Dominica",
+      "img": "https://static.futbolenlatv.com/img/32/20181103122340-dominica.webp"
+    },
+    "canais": [
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "curacao-vs-el_salvador",
+    "campeonato": "CONCACAF Women's U17",
+    "hora": "20:00",
+    "time_casa": {
+      "nome": "Curaçao",
+      "img": "https://static.futbolenlatv.com/img/32/20150828015644-curazao.webp"
+    },
+    "time_visitante": {
+      "nome": "El Salvador",
+      "img": "https://static.futbolenlatv.com/img/32/20130513110531_el-salvador.webp"
+    },
+    "canais": [
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "belice-vs-dominican_republic",
+    "campeonato": "CONCACAF Women's U17",
+    "hora": "22:00",
+    "time_casa": {
+      "nome": "Belice",
+      "img": "https://static.futbolenlatv.com/img/32/20130703122111-belice.webp"
+    },
+    "time_visitante": {
+      "nome": "Dominican Republic",
+      "img": "https://static.futbolenlatv.com/img/32/20131031024327-republica-dominicana.webp"
+    },
+    "canais": [
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "tapatio-vs-leones_negros",
+    "campeonato": "Liga de Expansion MX",
+    "hora": "20:00",
+    "time_casa": {
+      "nome": "Tapatio",
+      "img": "https://static.futbolenlatv.com/img/32/20200811212931-cd-tapatio.webp"
+    },
+    "time_visitante": {
+      "nome": "Leones Negros",
+      "img": "https://static.futbolenlatv.com/img/32/20140709022056-leones-negros.webp"
+    },
+    "canais": [
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "alebrijes_oaxaca-vs-zacatecas_mineros",
+    "campeonato": "Liga de Expansion MX",
+    "hora": "22:00",
+    "time_casa": {
+      "nome": "Alebrijes Oaxaca",
+      "img": "https://static.futbolenlatv.com/img/32/20211102101642-alebrijes-oaxaca.webp"
+    },
+    "time_visitante": {
+      "nome": "Zacatecas Mineros",
+      "img": "https://static.futbolenlatv.com/img/32/20170607112850-mineros-zacatecas.webp"
+    },
+    "canais": [
+      "Disney+ Premium"
+    ]
+  }
+]
