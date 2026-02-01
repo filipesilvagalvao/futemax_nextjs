@@ -84,7 +84,7 @@ async function page({ params }: ChannelsPropsPage) {
                 strategy="afterInteractive"
                 data-cfasync="false"
             />
-            <Script
+            {/* <Script
                 src="https://bvtpk.com/tag.min.js"
                 data-zone="10517655"
                 strategy="afterInteractive"
@@ -95,7 +95,7 @@ async function page({ params }: ChannelsPropsPage) {
                 data-zone="10517656"
                 strategy="afterInteractive"
                 data-cfasync="false"
-            />
+            /> */}
         </section>
     )
 }

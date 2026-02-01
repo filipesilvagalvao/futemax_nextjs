@@ -2,6 +2,25 @@ type PlayerProps = {
     [channel: string]: string[];
 }
 export const Players: PlayerProps = {
+    "BBB 2026": [
+        "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=bbb26-1",
+        "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=bbb26-2",
+        "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=bbb26-3",
+        "https://rdcanais.top/bbb1",
+        "https://rdcanais.top/bbb1alternativo",
+        "https://rdcanais.top/bbb2",
+        "https://rdcanais.top/bbb3",
+        "https://www2.embedtv.best/bbb1",
+        "https://www2.embedtv.best/bbb2",
+        "https://www2.embedtv.best/bbb3",
+        "https://www2.embedtv.best/bbb4",
+        "https://embedtvonline.com/bbb01/",
+        "https://embedtvonline.com/bbb02/",
+        "https://embedtvonline.com/bbb03/",
+        "https://embedtvonline.com/bbb04/",
+        "https://embedtvonline.com/bbb05/",
+        "https://embedtvonline.com/bbb06/"
+    ],
     "ESPN": [
         "https://embedflix.cv/tv/player.php?id=espn",
         "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=espn",

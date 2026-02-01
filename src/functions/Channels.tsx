@@ -1,5 +1,24 @@
 const Channels = [
     {
+        name: "BBB 2026",
+        path_img: "bbb-2026.webp",
+        slug: "bbb-2026",
+        category: "Reality Show",
+        metadescription: `O Big Brother Brasil 2026 chega como mais uma edição que promete movimentar o país e dominar as conversas nas redes sociais. Mantendo o formato que conquistou milhões de fãs, o reality reúne participantes confinados em uma casa vigiada 24 horas por dia, onde estratégia, convivência, alianças e conflitos fazem parte do jogo.
+        
+        O Big Brother Brasil 2026 (BBB 26) está sendo exibido oficialmente nos seguintes canais e plataformas no Brasil 🇧🇷:
+
+        📺 TV Globo (televisão aberta) – A principal exibição diária do reality acontece na TV Globo, geralmente no horário nobre após a novela “Três Graças” de segunda a sábado, e depois do Fantástico aos domingos.
+
+        📱 Globoplay (streaming) – A plataforma de streaming da Globo transmite tanto o programa principal ao vivo quanto cobertura 24 h das câmeras da casa. No Globoplay você pode acompanhar tudo o que acontece no confinamento em tempo real, com múltiplos sinais e opções de visualização.
+
+        📺 Multishow (TV por assinatura) – O canal por assinatura Multishow também exibe conteúdos relacionados ao BBB, como resumos e programas complementares ao vivo ou depois da exibição principal na Globo.
+
+        🌐 gshow (site oficial) – Embora não transmita o programa inteiro, o site gshow.globo.com oferece notícias, destaques, vídeos e informações sobre o jogo e os participantes.
+
+        Resumindo: o BBB 26 passa na TV Globo aberta, pode ser assistido online pelo Globoplay (incluindo câmeras 24 h), e tem conteúdos adicionais no Multishow e no gshow
+        `},
+    {
         name: "A&E",
         path_img: "ae.webp",
         slug: "ae",
