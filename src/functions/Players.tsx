@@ -33,11 +33,10 @@ export const Players: PlayerProps = {
         "https://embedtvonline.com/espn/",
         "https://www2.embedtv.best/espn",
         "https://rdcanais.top/espn",
-        "https://nossoplayeronlinehd.online/tv/espn",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=670504&ext=mp4",
         "https://sporturbo.com/player/canais/dspl-espn",
         "https://sporturbo.com/player/canais/wcbr-espn",
         "https://playertv.net/e/?v=espn",
-        "https://embed.bugoumods.com/player.php?type=live_streams&id=670504&ext=mp4",
     ],
 
     "ESPN 2": [
@@ -46,11 +45,10 @@ export const Players: PlayerProps = {
         "https://embedtvonline.com/espn2/",
         "https://rdcanais.top/espn2",
         "https://www2.embedtv.best/espn2",
-        "https://nossoplayeronlinehd.online/tv/espn2",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637576&ext=mp4",
         "https://sporturbo.com/player/canais/dspl-espn2",
         "https://sporturbo.com/player/multi/espn2sd",
         "https://playertv.net/e/?v=espn2",
-        "https://embed.bugoumods.com/player.php?type=live_streams&id=637576&ext=mp4",
     ],
 
     "ESPN 3": [
@@ -59,11 +57,10 @@ export const Players: PlayerProps = {
         "https://embedtvonline.com/espn3/",
         "https://rdcanais.top/espn3",
         "https://www2.embedtv.best/espn3",
-        "https://nossoplayeronlinehd.online/tv/espn3",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637579&ext=mp4",
         "https://sporturbo.com/player/multi/espn3hd",
         "https://sporturbo.com/player/multi/espn3sd",
         "https://playertv.net/e/?v=espn3",
-        "https://embed.bugoumods.com/player.php?type=live_streams&id=637579&ext=mp4",
     ],
 
     "ESPN 4": [
@@ -72,11 +69,10 @@ export const Players: PlayerProps = {
         "https://embedtvonline.com/espn4/",
         "https://rdcanais.top/espn4",
         "https://www2.embedtv.best/espn4",
-        "https://nossoplayeronlinehd.online/tv/espn4",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637581&ext=mp4",
         "https://sporturbo.com/player/canais/dspl-espn4",
         "https://sporturbo.com/player/canais/wcbr-espn4",
         "https://playertv.net/e/?v=espn4",
-        "https://embed.bugoumods.com/player.php?type=live_streams&id=637581&ext=mp4",
     ],
     "ESPN 5": [
         "https://embedflix.cv/tv/espn-5",
@@ -84,11 +80,10 @@ export const Players: PlayerProps = {
         "https://embedtvonline.com/espn5/",
         "https://rdcanais.top/espn5",
         "https://www2.embedtv.best/espn5",
-        "https://nossoplayeronlinehd.online/tv/espn5",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637584&ext=mp4",
         "https://sporturbo.com/player/multi/espn5hd",
         "https://sporturbo.com/player/multi/espn5sd",
         "https://playertv.net/e/?v=espn5",
-        "https://embed.bugoumods.com/player.php?type=live_streams&id=637584&ext=mp4",
     ],
 
     "ESPN 6": [
@@ -97,15 +92,16 @@ export const Players: PlayerProps = {
         "https://embedtvonline.com/espn6/",
         "https://rdcanais.top/espn6",
         "https://www2.embedtv.best/espn6",
-        "https://nossoplayeronlinehd.online/tv/espn6",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637587&ext=mp4",
         "https://sporturbo.com/player/multi/espn6hd",
         "https://sporturbo.com/player/multi/espn6sd",
         "https://playertv.net/e/?v=espn6",
-        "https://embed.bugoumods.com/player.php?type=live_streams&id=637587&ext=mp4",
     ],
 
     "XSPORTS": [
-        "https://nossoplayeronlinehd.online/tv/xsports",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637143&ext=mp4",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637142&ext=mp4",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637144&ext=mp4",
         "https://embedtvonline.com/xsports/",
         "https://rdcanais.top/xsports"
     ],
@@ -117,11 +113,10 @@ export const Players: PlayerProps = {
         "https://embedtvonline.com/sportv/",
         "https://rdcanais.top/sportv",
         "https://www2.embedtv.best/sportv",
-        "https://nossoplayeronlinehd.online/tv/sportv",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637592&ext=mp4",
         "https://sporturbo.com/player/canais/ampv-sportv",
         "https://sporturbo.com/player/canais/wcbr-sportv",
         "https://playertv.net/e/?v=sportv",
-        "https://embed.bugoumods.com/player.php?type=live_streams&id=637592&ext=mp4"
     ],
 
     "Sportv 2": [
@@ -130,11 +125,10 @@ export const Players: PlayerProps = {
         "https://embedtvonline.com/sportv2/",
         "https://rdcanais.top/sportv2",
         "https://www2.embedtv.best/sportv2",
-        "https://nossoplayeronlinehd.online/tv/sportv2",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637595&ext=mp4",
         "https://sporturbo.com/player/canais/ampv-sportv2",
         "https://sporturbo.com/player/canais/wcbr-sportv2",
         "https://playertv.net/e/?v=sportv2",
-        "https://embed.bugoumods.com/player.php?type=live_streams&id=637595&ext=mp4",
     ],
 
     "Sportv 3": [
@@ -144,7 +138,7 @@ export const Players: PlayerProps = {
         "https://embedtvonline.com/sportv3/",
         "https://rdcanais.top/sportv3",
         "https://www2.embedtv.best/sportv3",
-        "https://nossoplayeronlinehd.online/tv/sportv3",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637597&ext=mp4",
         "https://sporturbo.com/player/multi/sportv3hd",
         "https://sporturbo.com/player/multi/sportv3sd",
         "https://playertv.net/e/?v=sportv3",
@@ -156,10 +150,9 @@ export const Players: PlayerProps = {
         "https://la14hd.com/vivo/canales.php?stream=premiere1",
         "https://embedtvonline.com/premiereclubes/",
         "https://rdcanais.top/premiereclubes",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637661&ext=mp4",
         "https://www2.embedtv.best/premiere",
-        "https://nossoplayeronlinehd.online/tv/premiere",
         "https://playertv.net/premiere/",
-        "https://embed.bugoumods.com/player.php?type=live_streams&id=637661&ext=mp4"
     ],
 
 
@@ -169,10 +162,9 @@ export const Players: PlayerProps = {
         "https://la14hd.com/vivo/canales.php?stream=premiere1",
         "https://embedtvonline.com/premiereclubes/",
         "https://rdcanais.top/premiereclubes",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637661&ext=mp4",
         "https://www2.embedtv.best/premiere",
-        "https://nossoplayeronlinehd.online/tv/premiere",
         "https://playertv.net/premiere/",
-        "https://embed.bugoumods.com/player.php?type=live_streams&id=637661&ext=mp4"
     ],
 
     "Premiere FC": [
@@ -181,10 +173,9 @@ export const Players: PlayerProps = {
         "https://la14hd.com/vivo/canales.php?stream=premiere1",
         "https://embedtvonline.com/premiereclubes/",
         "https://rdcanais.top/premiereclubes",
-        "https://www2.embedtv.best/premiere",
-        "https://nossoplayeronlinehd.online/tv/premiere",
-        "https://playertv.net/premiere/",
         "https://embed.bugoumods.com/player.php?type=live_streams&id=637661&ext=mp4",
+        "https://www2.embedtv.best/premiere",
+        "https://playertv.net/premiere/",
     ],
 
     "Premiere 2": [
@@ -192,9 +183,9 @@ export const Players: PlayerProps = {
         "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=premiere2",
         "https://la14hd.com/vivo/canales.php?stream=premiere2",
         "https://embedtvonline.com/premiere2/",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637644&ext=mp4",
         "https://rdcanais.top/premiere2",
         "https://www2.embedtv.best/premiere2",
-        "https://nossoplayeronlinehd.online/tv/premiere2",
         "https://playertv.net/e/?v=premiere2",
     ],
 
@@ -203,9 +194,9 @@ export const Players: PlayerProps = {
         "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=premiere3",
         "https://la14hd.com/vivo/canales.php?stream=premiere3",
         "https://embedtvonline.com/premiere3/",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637664&ext=mp4",
         "https://rdcanais.top/premiere3",
         "https://www2.embedtv.best/premiere3",
-        "https://nossoplayeronlinehd.online/tv/premiere3",
         "https://playertv.net/e/?v=premiere3",
     ],
 
@@ -213,10 +204,10 @@ export const Players: PlayerProps = {
         "https://embedflix.cv/tv/player.php?id=premiere-4",
         "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=premiere4",
         "https://la14hd.com/vivo/canales.php?stream=premiere4",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637648&ext=mp4",
         "https://embedtvonline.com/premiere4/",
         "https://rdcanais.top/premiere4",
         "https://www2.embedtv.best/premiere4",
-        "https://nossoplayeronlinehd.online/tv/premiere4",
         "https://playertv.net/e/?v=premiere4",
     ],
 
@@ -226,7 +217,7 @@ export const Players: PlayerProps = {
         "https://embedtvonline.com/bandsports/",
         "https://rdcanais.top/bandsports",
         "https://www2.embedtv.best/bandsports",
-        "https://nossoplayeronlinehd.online/tv/bandsports",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637131&ext=mp4",
         "https://sporturbo.com/player/multi/bandsportssd",
         "https://sporturbo.com/player/multi/bandsportshd",
         "https://playertv.net/e/?v=bandSports",
@@ -234,7 +225,7 @@ export const Players: PlayerProps = {
 
     "Paramount+": [
         "https://embedflix.cv/tv/player.php?id=paramount-1",
-        "https://nossoplayeronlinehd.online/tv/paramountplus",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637252&ext=mp4",
         "https://www2.embedtv.best/paramountplus",
         "https://www2.embedtv.best/paramountplus2",
         "https://embedtvonline.com/paramountplus/",
@@ -251,7 +242,7 @@ export const Players: PlayerProps = {
         "https://embedtvonline.com/combate/",
         "https://rdcanais.top/combate",
         "https://www2.embedtv.best/combate",
-        "https://nossoplayeronlinehd.online/tv/combate",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637134&ext=mp4",
         "https://sporturbo.com/player/multi/combatesd",
         "https://sporturbo.com/player/multi/combatehd",
         "https://playertv.net/e/?v=combate",
@@ -262,38 +253,37 @@ export const Players: PlayerProps = {
         "https://embedtvonline.com/cazetv/",
         "https://rdcanais.top/cazetv",
         "https://www2.embedtv.best/caze1",
-        "https://nossoplayeronlinehd.online/tv/caze1",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637218&ext=mp4",
         "https://playertv.net/e/?v=caze1",
         "https://embedflix.cv/tv/player.php?id=caze-tv-2",
         "https://rdcanais.top/cazetv2",
         "https://www2.embedtv.best/caze2",
-        "https://nossoplayeronlinehd.online/tv/caze2",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637219&ext=mp4",
         "https://playertv.net/e/?v=caze2",
         "https://rdcanais.top/cazetv3",
         "https://www2.embedtv.best/caze3",
-        "https://nossoplayeronlinehd.online/tv/caze3",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637220&ext=mp4",
         "https://playertv.net/e/?v=caze3",
     ],
 
     "Canal Goat": [
-        "https://nossoplayeronlinehd.online/tv/goat1",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637216&ext=mp4",
         "https://www2.embedtv.best/goat1",
-        "https://nossoplayeronlinehd.online/tv/goat2",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637217&ext=mp4",
         "https://www2.embedtv.best/goat2",
-        "https://nossoplayeronlinehd.online/tv/goat3",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637258&ext=mp4",
         "https://www2.embedtv.best/goat3",
     ],
 
     "Prime Video": [
         "https://embedflix.cv/tv/player.php?id=prime-video-1",
         "https://rdcanais.top/primevideo",
-        "https://nossoplayeronlinehd.online/tv/primevideo",
         "https://www2.embedtv.best/primevideo",
         "https://playertv.net/e/?v=prime",
         "https://embedtvonline.com/amazonprimevideo/",
         "https://embedflix.cv/tv/player.php?id=prime-video-2",
         "https://rdcanais.top/primevideo2",
-        "https://nossoplayeronlinehd.online/tv/primevideo2",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637538&ext=mp4",
         "https://www2.embedtv.best/primevideo2",
         "https://playertv.net/e/?v=primeAlt",
     ],
@@ -304,37 +294,38 @@ export const Players: PlayerProps = {
         "https://embedtvonline.com/tnt/",
         "https://rdcanais.top/tnt",
         "https://www2.embedtv.best/tnt",
-        "https://nossoplayeronlinehd.online/tv/tnt",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=638429&ext=mp4",
         "https://sporturbo.com/player/multi/tnthd",
         "https://sporturbo.com/player/multi/tntsd",
         "https://playertv.net/e/?v=tnt",
     ],
 
     "Disney+ Premium": [
-        "https://nossoplayeronlinehd.online/tv/disneyplus1",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637288&ext=mp4",
         "https://embedtvonline.com/disneyplus/",
         "https://sporturbo.com/player/canais/dspl1",
         "https://www2.embedtv.best/disneyplus1",
-        "https://nossoplayeronlinehd.online/tv/disneyplus2",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637289&ext=mp4",
         "https://www2.embedtv.best/disneyplus2",
-        "https://nossoplayeronlinehd.online/tv/disneyplus3"
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637290&ext=mp4"
     ],
 
     "Disney+": [
-        "https://nossoplayeronlinehd.online/tv/disneyplus1",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637288&ext=mp4",
         "https://embedtvonline.com/disneyplus/",
         "https://www2.embedtv.best/disneyplus1",
         "https://embed.bugoumods.com/player.php?type=live_streams&id=637288&ext=mp4",
-        "https://nossoplayeronlinehd.online/tv/disneyplus2",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637289&ext=mp4",
         "https://www2.embedtv.best/disneyplus2",
         "https://embed.bugoumods.com/player.php?type=live_streams&id=637289&ext=mp4",
-        "https://nossoplayeronlinehd.online/tv/disneyplus3",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637290&ext=mp4",
         "https://embed.bugoumods.com/player.php?type=live_streams&id=637290&ext=mp4",
     ],
 
     "SBT": [
+        "https://www.youtube.com/embed/LLpNUqHVam8?si=-TdcNwLy8UbdfknF",
         "https://embedflix.cv/tv/player.php?id=sbt",
-        "https://nossoplayeronlinehd.online/tv/sbt",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637772&ext=mp4",
         "https://rdcanais.top/sbt",
         "https://sporturbo.com/player/multi/sbtsd",
         "https://www2.embedtv.best/sbt",
@@ -350,7 +341,6 @@ export const Players: PlayerProps = {
         "https://embedtvonline.com/globosp/",
         "https://rdcanais.top/globosp",
         "https://www2.embedtv.best/globosp",
-        "https://nossoplayeronlinehd.online/tv/globosp",
         "https://playertv.net/e/?v=globoSP",
     ],
 
@@ -361,16 +351,15 @@ export const Players: PlayerProps = {
         "https://embedtvonline.com/globorj/",
         "https://rdcanais.top/globorj",
         "https://www2.embedtv.best/globorj",
-        "https://nossoplayeronlinehd.online/tv/globo_rj",
         "https://playertv.net/e/?v=globoRJ",
         "https://sporturbo.com/player/multi/globorjsd",
     ],
 
     "Globo MG": [
+        "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=bobomg",
         "https://embedflix.cv/tv/player.php?id=globo-mg",
         "https://embedtvonline.com/globomg/",
         "https://rdcanais.top/globomg",
-        "https://nossoplayeronlinehd.online/tv/globomg",
         "https://playertv.net/e/?v=globoMG",
     ],
 
@@ -395,6 +384,7 @@ export const Players: PlayerProps = {
 
     "Band": [
         "https://embedflix.cv/tv/player.php?id=band",
+        "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=band",
         "https://sporturbo.com/player/multi/bandsd",
         "https://sporturbo.com/player/multi/bandhd",
         "https://embedtvonline.com/bandsp/",
@@ -407,9 +397,10 @@ export const Players: PlayerProps = {
     "UFC Fight Pass": [
         "https://embedflix.cv/tv/player.php?id=ufc-fight-pass",
         "https://embedtvonline.com/ufcfightpass/",
+        "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=ufcfightpass",
         "https://rdcanais.top/ufcfightpass",
         "https://www2.embedtv.best/ufcfightpass",
-        "https://nossoplayeronlinehd.online/tv/ufcfightpass",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637256&ext=mp4",
     ],
 
     "RedeTV!": [
@@ -534,19 +525,20 @@ export const Players: PlayerProps = {
         "https://nossoplayeronlinehd.online/tv/discoveryturbo",
         "https://playertv.net/e/?v=turbo"
     ],
-    "Discovery World":[
+    "Discovery World": [
         "https://embedtvonline.com/discoveryworld/",
         "https://rdcanais.top/discoveryworld",
         "https://www2.embedtv.best/discoveryword",
         "https://playertv.net/e/?v=world",
         "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=discoveryworld"
     ],
-    "FX":[
+    "FX": [
         "https://embedflix.cv/tv/player.php?id=fx",
         "https://playertv.net/e/?v=fx"
     ],
-    "Globo":[
+    "Rede Globo": [
         "https://embedflix.cv/tv/player.php?id=globo-sp",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637666&ext=mp4",
         "https://embedtvonline.com/globosp/",
         "https://rdcanais.top/globosp",
         "https://www2.embedtv.best/globosp",
@@ -554,6 +546,7 @@ export const Players: PlayerProps = {
         "https://playertv.net/e/?v=globoSP",
         "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=bobosp",
         "https://embedflix.cv/tv/player.php?id=globo-rj",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=638479&ext=mp4",
         "https://embedtvonline.com/globorj/",
         "https://rdcanais.top/globorj",
         "https://www2.embedtv.best/globorj",
@@ -561,6 +554,7 @@ export const Players: PlayerProps = {
         "https://playertv.net/e/?v=globoRJ",
         "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=boborj",
         "https://embedflix.cv/tv/player.php?id=globo-mg",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=637736&ext=mp4",
         "https://embedtvonline.com/globomg/",
         "https://rdcanais.top/globomg",
         "https://www2.embedtv.best/globomg",
@@ -568,7 +562,7 @@ export const Players: PlayerProps = {
         "https://playertv.net/e/?v=globoMG",
         "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=bobomg",
     ],
-    "Gloob":[
+    "Gloob": [
         "https://embedtvonline.com/gloob/",
         "https://rdcanais.top/gloobinho",
         "https://www2.embedtv.best/gloob",
@@ -576,14 +570,14 @@ export const Players: PlayerProps = {
         "https://playertv.net/e/?v=gloobAlt",
         "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=gloob"
     ],
-    "GNT":[
+    "GNT": [
         "https://embedtvonline.com/gnt/",
         "https://rdcanais.top/gnt",
         "https://www2.embedtv.best/gnt",
         "https://playertv.net/e/?v=gnt",
         "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=gnt"
     ],
-    "HBO":[
+    "HBO": [
         "https://embedflix.cv/tv/player.php?id=hbo",
         "https://embedtvonline.com/hbo/",
         "https://rdcanais.top/hbo",
@@ -591,7 +585,7 @@ export const Players: PlayerProps = {
         "https://nossoplayeronlinehd.online/tv/hbo",
         "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=hbo"
     ],
-    "HBO Family":[
+    "HBO Family": [
         "https://embedflix.cv/tv/player.php?id=hbo-family",
         "https://embedtvonline.com/hbofamily/",
         "https://rdcanais.top/hbofamily",
@@ -599,7 +593,7 @@ export const Players: PlayerProps = {
         "https://nossoplayeronlinehd.online/tv/hbofamily",
         "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=hbofamily"
     ],
-    "History":[
+    "History": [
         "https://embedflix.cv/tv/player.php?id=history-channel",
         "https://embedtvonline.com/history/",
         "https://rdcanais.top/history",
@@ -608,7 +602,7 @@ export const Players: PlayerProps = {
         "https://playertv.net/e/?v=h1",
         "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=history"
     ],
-    "Megapix":[
+    "Megapix": [
         "https://embedflix.cv/tv/player.php?id=megapix",
         "https://embedtvonline.com/megapix/",
         "https://rdcanais.top/megapix",
@@ -617,14 +611,14 @@ export const Players: PlayerProps = {
         "https://playertv.net/e/?v=megapix",
         "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=megapix"
     ],
-    "MTV":[
+    "MTV": [
         "https://embedflix.cv/tv/player.php?id=mtv",
         "https://embedtvonline.com/mtv/",
         "https://rdcanais.top/mtv",
         "https://www2.embedtv.best/mtv",
         "https://playertv.net/e/?v=mtvAlt"
     ],
-    "Multishow":[
+    "Multishow": [
         "https://embedflix.cv/tv/player.php?id=multishow",
         "https://embedtvonline.com/multishow/",
         "https://rdcanais.top/multishow",
@@ -633,19 +627,19 @@ export const Players: PlayerProps = {
         "https://playertv.net/e/?v=multishow",
         "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=multishow"
     ],
-    "NBA":[
+    "NBA": [
         "https://rdcanais.top/nbatv",
         "https://playertv.net/e/?v=nba",
         "https://playertv.net/e/?v=nbaAlt"
     ],
-    "Nick Jr":[
+    "Nick Jr": [
         "https://embedflix.cv/tv/player.php?id=nick-jr",
         "https://embedtvonline.com/nickjr/",
         "https://rdcanais.top/nickjr",
         "https://www2.embedtv.best/nickjunior",
         "https://playertv.net/e/?v=nickjr"
     ],
-    "Nosso Futebol":[
+    "Nosso Futebol": [
         "https://embedtvonline.com/nossofutebol/",
         "https://nossoplayeronlinehd.online/tv/nossofutebol",
         "https://playertv.net/e/?v=nossoFutebol",
@@ -653,13 +647,13 @@ export const Players: PlayerProps = {
         "https://playertv.net/e/?v=nosso2",
         "https://playertv.net/e/?v=nosso3"
     ],
-    "Paramount Channel":[
+    "Paramount Channel": [
         "https://embedflix.cv/tv/player.php?id=paramount-network",
         "https://embedtvonline.com/paramountnetwork/",
         "https://www2.embedtv.best/paramountchannel",
         "https://playertv.net/e/?v=paramount"
     ],
-    "RecordTV":[
+    "RecordTV": [
         "https://embedflix.cv/tv/player.php?id=record-tv",
         "https://embed.bugoumods.com/player.php?type=live_streams&id=638504&ext=mp4",
         "https://embed.bugoumods.com/player.php?type=live_streams&id=638491&ext=mp4",
@@ -676,7 +670,16 @@ export const Players: PlayerProps = {
         "https://playertv.net/e/?v=recordMG",
         "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=record"
     ],
-    "Sony Channel":[
+    "HBO Max": [
+        "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=hbomax1",
+        "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=hbomax2",
+        "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=hbomax3",
+        "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=hbomax4",
+        "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=hbomax5",
+        "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=hbomax6",
+        "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=hbomax7",
+    ],
+    "Sony Channel": [
         "https://embedflix.cv/tv/player.php?id=sony-channel",
         "https://embedtvonline.com/sonychannel/",
         "https://rdcanais.top/sonychannel",
@@ -684,7 +687,7 @@ export const Players: PlayerProps = {
         "https://playertv.net/e/?v=sony",
         "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=sony"
     ],
-    "Space":[
+    "Space": [
         "https://embedflix.cv/tv/player.php?id=space",
         "https://embedtvonline.com/space/",
         "https://rdcanais.top/space",
@@ -693,7 +696,7 @@ export const Players: PlayerProps = {
         "https://playertv.net/e/?v=space",
         "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=space"
     ],
-    "Telecine Pipoca":[
+    "Telecine Pipoca": [
         "https://embedflix.cv/tv/player.php?id=telecine-pipoca",
         "https://embedtvonline.com/tcpipoca/",
         "https://rdcanais.top/telecinepipoca",
@@ -702,7 +705,7 @@ export const Players: PlayerProps = {
         "https://playertv.net/e/?v=tcPipoca",
         "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=telecinepipoca"
     ],
-    "Telecine Action":[
+    "Telecine Action": [
         "https://embedflix.cv/tv/player.php?id=telecine-action",
         "https://embedtvonline.com/tcaction/",
         "https://rdcanais.top/telecineaction",
@@ -711,7 +714,7 @@ export const Players: PlayerProps = {
         "https://playertv.net/e/?v=tcAction",
         "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=telecineaction"
     ],
-    "Telecine Cult":[
+    "Telecine Cult": [
         "https://embedflix.cv/tv/player.php?id=telecine-cult",
         "https://embedtvonline.com/tccult/",
         "https://rdcanais.top/telecinecult",
@@ -720,7 +723,7 @@ export const Players: PlayerProps = {
         "https://playertv.net/e/?v=tcCult",
         "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=telecinecult"
     ],
-    "Telecine Fun":[
+    "Telecine Fun": [
         "https://embedflix.cv/tv/player.php?id=telecine-fun",
         "https://embedtvonline.com/tcfun/",
         "https://rdcanais.top/telecinefun",
@@ -729,7 +732,7 @@ export const Players: PlayerProps = {
         "https://playertv.net/e/?v=tcFun",
         "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=telecinefun"
     ],
-    "Telecine Touch":[
+    "Telecine Touch": [
         "https://embedflix.cv/tv/player.php?id=telecine-touch",
         "https://embedtvonline.com/tctouch/",
         "https://rdcanais.top/telecinetouch",
@@ -738,7 +741,7 @@ export const Players: PlayerProps = {
         "https://playertv.net/e/?v=tcTouch",
         "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=telecinetouch"
     ],
-    "Telecine Premium":[
+    "Telecine Premium": [
         "https://embedflix.cv/tv/player.php?id=telecine-premium",
         "https://embedtvonline.com/tcpremium/",
         "https://rdcanais.top/telecinepremium",
@@ -747,7 +750,7 @@ export const Players: PlayerProps = {
         "https://playertv.net/e/?v=tcPremium",
         "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=telecinepremium"
     ],
-    "TLC":[
+    "TLC": [
         "https://embedflix.cv/tv/player.php?id=tlc",
         "https://rdcanais.top/tlc",
         "https://www2.embedtv.best/tlc",
@@ -755,7 +758,7 @@ export const Players: PlayerProps = {
         "https://playertv.net/e/?v=tlc",
         "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=tlc"
     ],
-    "TV Cultura":[
+    "TV Cultura": [
         "https://embedflix.cv/tv/player.php?id=cultura",
         "https://embedtvonline.com/tvcultura/",
         "https://rdcanais.top/tvcultura",
@@ -763,7 +766,7 @@ export const Players: PlayerProps = {
         "https://nossoplayeronlinehd.online/tv/cultura",
         "https://playertv.net/e/?v=cultura"
     ],
-    "Universal TV":[
+    "Universal TV": [
         "https://embedflix.cv/tv/player.php?id=universal-channel",
         "https://embedtvonline.com/universaltv/",
         "https://rdcanais.top/universaltv",
@@ -771,12 +774,12 @@ export const Players: PlayerProps = {
         "https://playertv.net/e/?v=universal",
         "https://%72%65%64%65%63%61%6E%61%69%73%74%76%2E%66%6D/player3/ch.php?canal=universal"
     ],
-    "Viva":[
+    "Viva": [
         "https://www2.embedtv.best/viva",
         "https://nossoplayeronlinehd.online/tv/viva",
         "https://playertv.net/e/?v=viva"
     ],
-    "Warner TV":[
+    "Warner TV": [
         "https://embedflix.cv/tv/player.php?id=warner-channel",
         "https://embedtvonline.com/warner/",
         "https://rdcanais.top/warnertv",

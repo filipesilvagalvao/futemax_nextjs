@@ -354,6 +354,54 @@
     ]
   },
   {
+    "id": "bragantino-vs-sao_bernardo",
+    "campeonato": "Campeonato Paulista",
+    "hora": "18:15",
+    "time_casa": {
+      "nome": "Bragantino",
+      "img": "https://static.futbolenlatv.com/img/32/20200122125639-rb-bragantino.webp"
+    },
+    "time_visitante": {
+      "nome": "Sao Bernardo",
+      "img": "https://static.futbolenlatv.com/img/32/20200825070729-sao-bernardo.webp"
+    },
+    "canais": [
+      "HBO Max"
+    ]
+  },
+  {
+    "id": "mirassol-vs-novorizontino",
+    "campeonato": "Campeonato Paulista",
+    "hora": "18:30",
+    "time_casa": {
+      "nome": "Mirassol",
+      "img": "https://static.futbolenlatv.com/img/32/20180207105031-mirassol.webp"
+    },
+    "time_visitante": {
+      "nome": "Novorizontino",
+      "img": "https://static.futbolenlatv.com/img/32/20170208093853-novorizontino.webp"
+    },
+    "canais": [
+      "HBO Max"
+    ]
+  },
+  {
+    "id": "noroeste-vs-velo_clube",
+    "campeonato": "Campeonato Paulista",
+    "hora": "19:30",
+    "time_casa": {
+      "nome": "Noroeste",
+      "img": "https://static.futbolenlatv.com/img/32/20180203105600-noroeste.webp"
+    },
+    "time_visitante": {
+      "nome": "Velo Clube",
+      "img": "https://static.futbolenlatv.com/img/32/20180203100629-velo-clube.webp"
+    },
+    "canais": [
+      "HBO Max"
+    ]
+  },
+  {
     "id": "botafogo_sp-vs-palmeiras",
     "campeonato": "Campeonato Paulista",
     "hora": "20:30",
