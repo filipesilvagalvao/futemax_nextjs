@@ -19,7 +19,13 @@ export const Players: PlayerProps = {
         "https://embedtvonline.com/bbb03/",
         "https://embedtvonline.com/bbb04/",
         "https://embedtvonline.com/bbb05/",
-        "https://embedtvonline.com/bbb06/"
+        "https://embedtvonline.com/bbb06/",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=638587&ext=mp4",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=638586&ext=mp4",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=638585&ext=mp4",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=638584&ext=mp4",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=638583&ext=mp4",
+        "https://embed.bugoumods.com/player.php?type=live_streams&id=638582&ext=mp4"
     ],
     "ESPN": [
         "https://embedflix.cv/tv/player.php?id=espn",
