@@ -1,0 +1,266 @@
+[
+  {
+    "id": "avs_futebol-vs-braga",
+    "campeonato": "Campeonato Português",
+    "hora": "15:45",
+    "time_casa": {
+      "nome": "AVS Futebol",
+      "img": "https://static.futbolenlatv.com/img/32/20230705173848-avs-futebol.webp"
+    },
+    "time_visitante": {
+      "nome": "Braga",
+      "img": "https://static.futbolenlatv.com/img/32/20121220121022_sporting-braga.webp"
+    },
+    "canais": [
+      "Xsports",
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "casa_pia-vs-fc_porto",
+    "campeonato": "Campeonato Português",
+    "hora": "17:45",
+    "time_casa": {
+      "nome": "Casa Pia",
+      "img": "https://static.futbolenlatv.com/img/32/20190929075330-casa-pia-ac.webp"
+    },
+    "time_visitante": {
+      "nome": "FC Porto",
+      "img": "https://static.futbolenlatv.com/img/32/20121220120801_oporto.webp"
+    },
+    "canais": [
+      "ESPN 4",
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "mallorca-vs-sevilla",
+    "campeonato": "Campeonato Espanhol",
+    "hora": "17:00",
+    "time_casa": {
+      "nome": "Mallorca",
+      "img": "https://static.futbolenlatv.com/img/32/20121218093434_mallorca.webp"
+    },
+    "time_visitante": {
+      "nome": "Sevilla",
+      "img": "https://static.futbolenlatv.com/img/32/20121218093043_sevilla.webp"
+    },
+    "canais": [
+      "Disney+ Premium",
+      "ESPN 3"
+    ]
+  },
+  {
+    "id": "sunderland-vs-burnley",
+    "campeonato": "Premier League",
+    "hora": "17:00",
+    "time_casa": {
+      "nome": "Sunderland",
+      "img": "https://static.futbolenlatv.com/img/32/20121218101008_sunderland.webp"
+    },
+    "time_visitante": {
+      "nome": "Burnley",
+      "img": "https://static.futbolenlatv.com/img/32/20130416055614_burnley.webp"
+    },
+    "canais": [
+      "Disney+ Premium",
+      "ESPN Brasil YouTube"
+    ]
+  },
+  {
+    "id": "argentinos_juniors-vs-belgrano",
+    "campeonato": "Campeonato Argentino",
+    "hora": "22:00",
+    "time_casa": {
+      "nome": "Argentinos Juniors",
+      "img": "https://static.futbolenlatv.com/img/32/20121219051144_argentinos-juniors.webp"
+    },
+    "time_visitante": {
+      "nome": "Belgrano",
+      "img": "https://static.futbolenlatv.com/img/32/20121219050908__belgrano.webp"
+    },
+    "canais": [
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "marica_fc-vs-volta_redonda",
+    "campeonato": "Campeonato Carioca",
+    "hora": "17:00",
+    "time_casa": {
+      "nome": "Maricá FC",
+      "img": "https://static.futbolenlatv.com/img/32/20220123114831-marica-cf.webp"
+    },
+    "time_visitante": {
+      "nome": "Volta Redonda",
+      "img": "https://static.futbolenlatv.com/img/32/20230921111555-volta-redonda.webp"
+    },
+    "canais": [
+      "Premiere"
+    ]
+  },
+  {
+    "id": "madureira-vs-vasco",
+    "campeonato": "Campeonato Carioca",
+    "hora": "20:00",
+    "time_casa": {
+      "nome": "Madureira",
+      "img": "https://static.futbolenlatv.com/img/32/20180117114842-madureira.webp"
+    },
+    "time_visitante": {
+      "nome": "Vasco",
+      "img": "https://static.futbolenlatv.com/img/32/20121222111424_vasco-da-gama.webp"
+    },
+    "canais": [
+      "Ge TV",
+      "SporTV",
+      "Premiere"
+    ]
+  },
+  {
+    "id": "udinese-vs-as_roma",
+    "campeonato": "Campeonato italiano",
+    "hora": "16:45",
+    "time_casa": {
+      "nome": "Udinese",
+      "img": "https://static.futbolenlatv.com/img/32/20121219035331_udinese.webp"
+    },
+    "time_visitante": {
+      "nome": "AS Roma",
+      "img": "https://static.futbolenlatv.com/img/32/20190415081153-roma.webp"
+    },
+    "canais": [
+      "Disney+ Premium",
+      "ESPN"
+    ]
+  },
+  {
+    "id": "kocaelispor-vs-fenerbahce",
+    "campeonato": "Campeonato Turco",
+    "hora": "14:00",
+    "time_casa": {
+      "nome": "Kocaelispor",
+      "img": "https://static.futbolenlatv.com/img/32/20241206095313-kocaelispor.webp"
+    },
+    "time_visitante": {
+      "nome": "Fenerbahce",
+      "img": "https://static.futbolenlatv.com/img/32/20121221105219_fenerbahçe.webp"
+    },
+    "canais": [
+      "Disney+ Premium",
+      "ESPN 4"
+    ]
+  },
+  {
+    "id": "guyana-vs-sao_vicente_e_granadinas",
+    "campeonato": "CONCACAF Women's U17",
+    "hora": "16:00",
+    "time_casa": {
+      "nome": "Guyana",
+      "img": "https://static.futbolenlatv.com/img/32/20181107101805-guyana.webp"
+    },
+    "time_visitante": {
+      "nome": "São Vicente e Granadinas",
+      "img": "https://static.futbolenlatv.com/img/32/20151105052139-vc.webp"
+    },
+    "canais": [
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "islas_caiman-vs-santa_lucia",
+    "campeonato": "CONCACAF Women's U17",
+    "hora": "17:00",
+    "time_casa": {
+      "nome": "Islas Caimán",
+      "img": "https://static.futbolenlatv.com/img/32/20200222202811-islas-caiman.webp"
+    },
+    "time_visitante": {
+      "nome": "Santa Lúcia",
+      "img": "https://static.futbolenlatv.com/img/32/20190825102541-santa-lucia.webp"
+    },
+    "canais": [
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "grenada-vs-anguilla",
+    "campeonato": "CONCACAF Women's U17",
+    "hora": "19:00",
+    "time_casa": {
+      "nome": "Grenada",
+      "img": "https://static.futbolenlatv.com/img/32/20181104071345-granada-pais.webp"
+    },
+    "time_visitante": {
+      "nome": "Anguilla",
+      "img": "https://static.futbolenlatv.com/img/32/20210324113156-anguilla.webp"
+    },
+    "canais": [
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "haiti-vs-guatemala",
+    "campeonato": "CONCACAF Women's U17",
+    "hora": "20:00",
+    "time_casa": {
+      "nome": "Haiti",
+      "img": "https://static.futbolenlatv.com/img/32/20130316103519_haiti.webp"
+    },
+    "time_visitante": {
+      "nome": "Guatemala",
+      "img": "https://static.futbolenlatv.com/img/32/20140913092220-guatemala.webp"
+    },
+    "canais": [
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "honduras-vs-jamaica",
+    "campeonato": "CONCACAF Women's U17",
+    "hora": "21:00",
+    "time_casa": {
+      "nome": "Honduras",
+      "img": "https://static.futbolenlatv.com/img/32/20170321051224-honduras.webp"
+    },
+    "time_visitante": {
+      "nome": "Jamaica",
+      "img": "https://static.futbolenlatv.com/img/32/20130528075437-Jamaica.webp"
+    },
+    "canais": [
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "costa_rica-vs-cuba",
+    "campeonato": "CONCACAF Women's U17",
+    "hora": "22:00",
+    "time_casa": {
+      "nome": "Costa Rica",
+      "img": "https://static.futbolenlatv.com/img/32/20130604072827-Costa-Rica.webp"
+    },
+    "time_visitante": {
+      "nome": "Cuba",
+      "img": "https://static.futbolenlatv.com/img/32/20130513111500_cuba.webp"
+    },
+    "canais": [
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "mirandes-vs-malaga",
+    "campeonato": "LaLiga Hypermotion",
+    "hora": "16:30",
+    "time_casa": {
+      "nome": "Mirandes",
+      "img": "https://static.futbolenlatv.com/img/32/20121218094206_mirandes.webp"
+    },
+    "time_visitante": {
+      "nome": "Malaga",
+      "img": "https://static.futbolenlatv.com/img/32/20130729013601-malaga.webp"
+    },
+    "canais": [
+      "Disney+ Premium"
+    ]
+  }
+]
