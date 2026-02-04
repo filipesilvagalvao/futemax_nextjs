@@ -72,7 +72,7 @@ async function page({ params }: PropsPageGames) {
             <div className={styles.match__container}>
 
                 <header className={styles.match__title}>
-                    <h1 >{game?.time_casa.nome} VS {game?.time_visitante.nome}</h1>
+                    <h1 >{game?.time_casa.nome} X {game?.time_visitante.nome}</h1>
                     <p>Campeonato: {game?.campeonato}</p>
 
                     <div className={styles.match__social}>
