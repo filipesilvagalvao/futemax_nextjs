@@ -1,0 +1,136 @@
+[
+  {
+    "id": "bahia-x-fluminense",
+    "campeonato": "Brasileirão Série A",
+    "hora": "19:00",
+    "time_casa": {
+      "nome": "Bahia",
+      "img": "https://static.futbolenlatv.com/img/32/20180209112818-bahia.webp"
+    },
+    "time_visitante": {
+      "nome": "Fluminense",
+      "img": "https://static.futbolenlatv.com/img/32/20180122105234-Fluminense.webp"
+    },
+    "canais": [
+      "Space",
+      "SporTV",
+      "Premiere"
+    ]
+  },
+  {
+    "id": "cruzeiro-x-coritiba",
+    "campeonato": "Brasileirão Série A",
+    "hora": "21:30",
+    "time_casa": {
+      "nome": "Cruzeiro",
+      "img": "https://static.futbolenlatv.com/img/32/20190115103202-cruzeiro.webp"
+    },
+    "time_visitante": {
+      "nome": "Coritiba",
+      "img": "https://static.futbolenlatv.com/img/32/20190925103005-coritiba.webp"
+    },
+    "canais": [
+      "SporTV",
+      "Premiere"
+    ]
+  },
+  {
+    "id": "juventud-x-u_catolica",
+    "campeonato": "Copa Libertadores",
+    "hora": "21:30",
+    "time_casa": {
+      "nome": "Juventud",
+      "img": "https://static.futbolenlatv.com/img/32/20141121093950-ca-juventud.webp"
+    },
+    "time_visitante": {
+      "nome": "U. Catolica",
+      "img": "https://static.futbolenlatv.com/img/32/20140815025834-u-catolica.webp"
+    },
+    "canais": [
+      "Paramount+"
+    ]
+  },
+  {
+    "id": "corinthians-x-capivariano",
+    "campeonato": "Campeonato Paulista",
+    "hora": "20:30",
+    "time_casa": {
+      "nome": "Corinthians",
+      "img": "https://static.futbolenlatv.com/img/32/20121222102336_corinthians.webp"
+    },
+    "time_visitante": {
+      "nome": "Capivariano",
+      "img": "https://static.futbolenlatv.com/img/32/20150130100143-capivariano.webp"
+    },
+    "canais": [
+      "HBO Max",
+      "TNT"
+    ]
+  },
+  {
+    "id": "vancouver_fc-x-cruz_azul",
+    "campeonato": "CONCACAF Liga dos Campeões",
+    "hora": "00:00",
+    "time_casa": {
+      "nome": "Vancouver FC",
+      "img": "https://static.futbolenlatv.com/img/32/20230410201113-vancouver-fc.webp"
+    },
+    "time_visitante": {
+      "nome": "Cruz Azul",
+      "img": "https://static.futbolenlatv.com/img/32/20130208052055_cruz-azul.webp"
+    },
+    "canais": [
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "real_madrid_feminino-x-fc_barcelona_feminino",
+    "campeonato": "Copa da Rainha",
+    "hora": "17:00",
+    "time_casa": {
+      "nome": "Real Madrid Feminino",
+      "img": "https://static.futbolenlatv.com/img/32/20200916192901-real-madrid-femenino.webp"
+    },
+    "time_visitante": {
+      "nome": "FC Barcelona Feminino",
+      "img": "https://static.futbolenlatv.com/img/32/20150808023001-barcelona-b.webp"
+    },
+    "canais": [
+      "Disney+ Premium",
+      "ESPN"
+    ]
+  },
+  {
+    "id": "betis-x-atl_madrid",
+    "campeonato": "Copa del Rey",
+    "hora": "17:00",
+    "time_casa": {
+      "nome": "Betis",
+      "img": "https://static.futbolenlatv.com/img/32/20130924050626-real-betis.webp"
+    },
+    "time_visitante": {
+      "nome": "Atl. Madrid",
+      "img": "https://static.futbolenlatv.com/img/32/20240712123854-at-madrid.webp"
+    },
+    "canais": [
+      "Disney+ Premium",
+      "ESPN 4"
+    ]
+  },
+  {
+    "id": "accrington-x-salford",
+    "campeonato": "League Two",
+    "hora": "17:01",
+    "time_casa": {
+      "nome": "Accrington",
+      "img": "https://static.futbolenlatv.com/img/32/20130807112419-accrington-stanley.webp"
+    },
+    "time_visitante": {
+      "nome": "Salford",
+      "img": "https://static.futbolenlatv.com/img/32/20151211115221-salford-city.webp"
+    },
+    "canais": [
+      "Disney+ Premium"
+    ]
+  }
+]
